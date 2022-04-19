@@ -1,2 +1,0 @@
-# geolocation
-A simple geolocation.

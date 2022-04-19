@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow: hidden;
+}
+
+#map{
+    height: 100vh;
+    background: grey;
+}
+
+#info{
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    padding: 3vmin;
+    font-family: sans-serif;
+    font-size: 5vmin;
+    z-index: 234324;
+    background: black;
+    color: white;
+    text-align: center;
+}
